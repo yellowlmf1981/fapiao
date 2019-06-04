@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#from wmj
 from piaoxiaomi_api import save_to_csv
 from piaoxiaomi_api import get_invoice_data
 from bot_wechat_invoice import invoice_bot
